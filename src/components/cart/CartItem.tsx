@@ -1,6 +1,4 @@
 "use client"
-import ArrowDropUpRoundedIcon from "@mui/icons-material/ArrowDropUpRounded"
-import ArrowDropDownRoundedIcon from "@mui/icons-material/ArrowDropDownRounded"
 import DeleteOutlineRoundedIcon from "@mui/icons-material/DeleteOutlineRounded"
 import { RootState } from "@/lib/Store"
 import Image from "next/image"
